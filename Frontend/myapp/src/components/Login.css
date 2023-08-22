@@ -1,0 +1,85 @@
+.container{
+    text-align: justify;
+    position: absolute;
+    padding: 9px;
+  width: 450px;
+  height: 400px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: solid white;
+  background-color: white;
+     box-shadow: 1px 1px 10px gray;
+    
+}
+.signUpContainer{
+    text-align: justify;
+    position: relative;
+    padding: 9px;
+  width: 450px;
+  height: 720px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: solid white;
+  background-color: white;
+     box-shadow: 1px 1px 10px gray;
+    
+}
+
+.input{
+    align-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 10px;
+    width: 85%;
+    height: 40%;
+    font: inherit;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    outline-color: rgb(22, 74, 195);
+    outline-width: 10px;
+    background-color: aliceblue;
+    
+}
+.signup-part{
+   background-color: rgb(26, 0, 224);
+   border-bottom-left-radius: 30px;
+   height: 45px;
+   position: relative;
+ text-align:center;
+   color: white;
+   padding-top: 0.5rem;
+   margin-top: -12px;
+   -webkit-text-stroke: medium;
+   -webkit-text-stroke-width: 2px;
+   font-style: unset;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serifs;
+}
+.login-part{
+    text-align: center;
+    font-weight: bold;
+    font-style: unset;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serifs;
+    -webkit-text-stroke: medium;
+   -webkit-text-stroke-width: 2px;
+
+}
+.btn{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.btn-danger{
+height: 45px;
+}
+
+.a-form{
+    padding-left: 30%;
+    color: rgb(206, 29, 29);
+}
